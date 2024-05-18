@@ -4,7 +4,7 @@
 <br/>
 Hello, my name is Marcelo Ribeiro and I am a Master's student at [Univeristy of Minho, Portugal](https://www.uminho.pt/EN), with a passion for technology and programming. Currently pursuing a master's degree in Embedded Systems and Control, Automation, Robotics (C.A.R.), I thrive on challenges, always employing critical thinking and adapting to new situations.
 
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/marce/Downloads/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966%20.gif">
+<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="25" height="25"/>
 
 - 👨‍💻 Some of my projects are available below 👇
 
