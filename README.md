@@ -29,6 +29,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
   </a>
   <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/en/6/6b/Xilinx_Vivado_Logo.png](https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.corna.Vivado.png)" alt="vivado" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Xilinx_Vivado_Logo.png]https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.github.corna.Vivado.png)" alt="vivado" width="40" height="40"/>
   </a>
 </p>
