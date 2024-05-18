@@ -14,7 +14,7 @@ Hello, my name is Marcelo Ribeiro and I am a Master's student at [Univeristy of 
 <a href="https://www.youtube.com/channel/UCF7HPgT3-hrcxoPBGXzKSYA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCF7HPgT3-hrcxoPBGXzKSYA" height="30" width="40" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloribeio19&langs_count=10&include_all_commits=true&layout=compact&hide=Makefile,VHDL,Roff)](https://github.com/marceloribeio19/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marceloribeio19&langs_count=10&include_all_commits=true&layout=compact&hide=makefile,vhdl,roff)](https://github.com/marceloribeio19/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
