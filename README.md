@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=100&size=20&duration=3400&pause=100&color=2F81F7&width=435&height=30&lines=Msc+Student+in+Embedded+Systems;Eletronics+and+Computers+Engineer)](https://git.io/typing-svg)
 <br/>
 Hello, my name is Marcelo Ribeiro and I am a Master's student at [Univeristy of Minho, Portugal](https://www.uminho.pt/EN), with a passion for technology and programming. Currently pursuing a master's degree in Embedded Systems and Control, Automation, Robotics (C.A.R.), I thrive on challenges, always employing critical thinking and adapting to new situations.
-
-<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100" height="100"/>
-
+<div align="center">
+  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="200" height="200"/>
+</div>
 - 👨‍💻 Some of my projects are available below 👇
 
 - 📫 How to reach me **https://www.linkedin.com/in/marcelo-ribeiro19/**
