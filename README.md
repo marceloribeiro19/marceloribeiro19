@@ -1,6 +1,6 @@
 # Hi, I'm Marcelo <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" height="24" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=100&size=20&duration=3400&pause=100&color=2F81F7&width=435&height=30&lines=Msc+Student+in+Embedded+Systems;Eletronic+and+Computers+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=100&size=20&duration=3400&pause=100&color=2F81F7&width=435&height=30&lines=Msc+Student+in+Embedded+Systems;Eletronics+and+Computers+Engineer)](https://git.io/typing-svg)
 <br/>
 Hello, my name is Marcelo Ribeiro and I am a Master's student at [Univeristy of Minho, Portugal](https://www.uminho.pt/EN). Currently pursuing a master's degree in Embedded Systems and Control, Automation, Robotics (C.A.R.), I thrive on challenges, always employing critical thinking and adapting to new situations.
 
